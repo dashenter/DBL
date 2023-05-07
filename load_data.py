@@ -3,12 +3,6 @@ import os
 import dask.dataframe as dd
 import pandas as pd
 
-client = 'American Air'
-client_nr = 22536055
-competitor = 'AirFrance'
-competitor_nr = 106062176
-
-
 # Read data form a selected file
 def read_single_file(file_path):
     with open(file_path, 'r') as f:
