@@ -2,6 +2,12 @@ import pandas as pd
 import os
 import sqlite3
 
+client = 'American Air'
+client_nr = 22536055
+
+competitor = 'AirFrance'
+competitor_nr = 106062176
+
 
 def get_json_files(directory):
     """
