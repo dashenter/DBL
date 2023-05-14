@@ -1,1 +1,0 @@
-"Salut ik spreek geen nederland"
