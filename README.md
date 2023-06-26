@@ -18,7 +18,5 @@ This repository contains multiple files, each serving a specific purpose.
 
 - `DEMO.ipynb`: This notebook was used for the demonstration during the final presentation.
 
-Feel free to modify and improve this README.md file to suit your specific project requirements and provide detailed instructions, explanations, and any additional information you deem necessary.
-
 
 
