@@ -2,9 +2,11 @@
 
 This repository has been created to fulfill the requirements of the JBG030 course at the Technical University of Eindhoven.
 
-## Overview
+## Overview 
 
-This repository contains multiple files, each serving a specific purpose.
+This repository contains multiple Jupyter Notebooks and databases, each serving a specific purpose.
+
+### Jupyter Notebooks
 
 - `DataBaseCreation.ipynb`: This Jupyter Notebook contains the code to create the 'dbl_10' database. The database size is approximately 6.6 GB.
 
@@ -18,5 +20,13 @@ This repository contains multiple files, each serving a specific purpose.
 
 - `DEMO.ipynb`: This notebook was used for the demonstration during the final presentation.
 
+### DataBases
+
+- `dbl10.db`: This is the main DataBase that we have been using, it was created in the database file previously explained. Initially it had nikitas as a table name but later it was changed to tweets while doing the sentiment anlaysis. If there is any cell code that doesn't run for this reason you can just change the tables name in the SQL Querys.
+
+- `map.db`: DataBase used for the creation of the Geographical Analysis with sentiment of The United States of America.
+
+- `sankey.db`: This is the one used for the Sankey diagrams used in the poster.
+  
 
 
