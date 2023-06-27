@@ -18,6 +18,8 @@ This repository contains multiple Jupyter Notebooks, CSV files and databases, ea
 
 -  `csv_files_per_airline` folder: This folder contains all the CSV files created using the `ConversationMining.ipynb` notebook.
 
+-  `cb_2018_us_state_500k` folder: This folder contains files used for plotting the maps for the United States of America. 
+
 - Other CSV files: These additional CSV files were generated for the demonstration during the third presentation. Due to time constraints, we created these files to ensure the smooth execution of the `DemoGroup10.ipynb` notebook.
 
 ### Jupyter Notebooks
